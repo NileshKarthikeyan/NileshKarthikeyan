@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Nilesh R 👋
 
-<!--
-**NileshKarthikeyan/NileshKarthikeyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst & Software & UI engineering
+I build the intelligent algorithms that extract business insights, alongside the sleek, responsive user interfaces that bring those data insights to life.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 My Toolbox
+
+| Category | Technologies |
+| --- | --- |
+| **Data & Analytics** | Python, SQL, Advanced MS Excel |
+| **Web Development** | HTML5, CSS3 |
+| **Tools & Version Control** | Git, GitHub, VS Code |
+
+---
+
+---
+
+### Who am I?
+I am a motivated computer science engineering student eager to start a career in the IT industry. I aim to apply my technical knowledge and skills to contribute to innovative projects and grow as a professional.
+
+### 📬 Connect with me:
+[💼 LinkedIn](https://www.linkedin.com/in/nilesh-r-0808b329a/?skipRedirect=true) | [📧 Email](mail2nilesh.r@gmail.com)
